@@ -1,5 +1,7 @@
 
 > Open this page at [https://jullianwastaken.github.io/decimal-to-binary/](https://jullianwastaken.github.io/decimal-to-binary/)
+> Click B to switch columns, doing so multiplies the multiplier (set to "1" by default) by two each time. This follows binary values.
+> Click A to select the column, this updates the value to add the appropriate number. In this case, clicking A will turn on the light to the max value and change the value of "value" to (value+multiplier).
 
 ## Use as Extension
 
