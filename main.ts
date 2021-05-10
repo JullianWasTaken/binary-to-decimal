@@ -25,8 +25,12 @@ input.onButtonPressed(Button.B, function () {
     hightlightOn()
 })
 function reset () {
-    basic.pause(500)
+    basic.pause(1000)
     basic.clearScreen()
+    lighght = 24
+    multiplier = 1
+    value = 0
+    hightlightOn()
 }
 let value = 0
 let multiplier = 0
@@ -35,6 +39,3 @@ lighght = 24
 multiplier = 1
 value = 0
 hightlightOn()
-basic.forever(function () {
-	
-})
